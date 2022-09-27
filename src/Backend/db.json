@@ -1,0 +1,266 @@
+{
+    "users": [
+        {
+          "email": "regular@example.com",
+          "password": "$2a$10$2myKMolZJoH.q.cyXClQXufY1Mc7ETKdSaQQCC6Fgtbe0DCXRBELG",
+          "id": 1001
+        },
+        {
+          "email": "admin@example.com",
+          "password": "$2a$10$w8qB40MdYkMs3dgGGf0Pu.xxVOOzWdZ5/Nrkleo3Gqc88PF/OQhOG",
+          "id": 1002
+        }
+      ],
+      "herobanner": [
+        {
+            "id": 101,
+            "Hb_Name": "Nike Shoes",
+            "Hb_Descreption": "The design digs into the culture, music and style of the late 60s, the music festival scene of the era, in all its vibrancy.",
+            "Hb_ProductTag": "Best Selling",
+            "Hb_Tag": "Good",
+            "Hb_image" : "https://i.ibb.co/xSNBbMS/Nike.png"
+        }
+      ],
+      "footerbanner": [
+        {
+            "id": 102,
+            "Fb_Name": "Nike Air Shoes",
+            "Fb_ShortDescreption": "The design digs into the culture.",
+            "Fb_SaleName": "Summer Sale",
+            "Fb_Tag1": "Best",
+            "Fb_Tag2": "Price",
+            "Fb_SalePercentage": "30%",
+            "Fb_SaleDate": "28 September 2022",
+            "Fb_image": "https://i.ibb.co/xSNBbMS/Nike.png"
+        }
+      ],
+    "products" : [
+        {
+            "id" : 1,
+            "title" : "Concepts x Nike Air Max 1- “Far Out”",
+            "price" : 3600,
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/image-6-11-600x400.jpeg",
+            "rating" : {
+                "rate" : 4.1,
+                "count" : 20
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/image-5-11.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-1-11.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-18-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/219a7a17-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/31d2f543-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 2,
+            "title" : "Travis Scott X Air Max 1 “Saturn Gold”",
+            "price" : 3800,
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/ae90b058-300x300.jpeg",
+            "rating" : {
+                "rate" : 3.1,
+                "count" : 15
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/20c4643a-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-3-13-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-4-13-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/c7e20155-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/10adfbbe-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 3,
+            "title" : "Nike Air Jordan 1 Mid “Blue Mint”",
+            "price" : 3400,
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/image-6-15-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.1,
+                "count" : 15
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/image-5-15-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-1-15-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-22-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/image-7-15-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/4877b5cb-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 4,
+            "title" : "Nike SB Dunk Low “Bart Simpson”",
+            "price" : 3600,
+            "P_ShortDesc" : "Great Product for the win",
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/image-7-16-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.9,
+                "count" : 100
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/image-6-16-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-2-17-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-23-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/image-3-16-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/36d741dd-1-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 5,
+            "title" : "NBA x Nike Dunk Low Retro “Brooklyn Nets”",
+            "price" : 3700,
+            "P_ShortDesc" : "Great Product for the win",
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/8bcc741a-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.1,
+                "count" : 15
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/1cf3d0bb-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-3-17-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-2-18-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/2ba02ff7-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/2027b55d-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 6,
+            "title" : "Concepts x Nike Air Max 1 “Mellow”",
+            "price" : 3600,
+            "P_ShortDesc" : "Great Product for the win",
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/image-6-10-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.1,
+                "count" : 15
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/image-5-10-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-1-10-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-17-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/image-7-10-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/47d24402-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 7,
+            "title" : "casablanca x New Balance xc 72 -“Red Gold”",
+            "price" : 3500,
+            "P_ShortDesc" : "Great Product for the win",
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/4d5cc09f-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.1,
+                "count" : 15
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/f80e9f61-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-3-7-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-2-7-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/26bec8de-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/abdcf792-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 8,
+            "title" : "Off-White x Nike Blazer Low “University Red”",
+            "price" : 4300,
+            "P_ShortDesc" : "Great Product for the win",
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/546fae7c-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.9,
+                "count" : 200
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/image-7-1-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-8-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/1582632a-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/image-2-1-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/image-1-1-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 9,
+            "title" : "Bad Bunny x adidas Forum Low- “Blue Tint”",
+            "price" : 3999,
+            "P_ShortDesc" : "Great Product for the win",
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/08/image-2-5-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.1,
+                "count" : 30
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/08/fsfsfsfsf-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/08/image-12-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/08/image-2-5-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/08/94c0bd19-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/08/35ed5663-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        },
+        {
+            "id" : 10,
+            "title" : "Nike Air Force 1 Low 07Star -“white/Black”",
+            "price" : 3400,
+            "P_ShortDesc" : "Great Product for the win",
+            "description" : "The design digs into the culture, music and style of the late 60s, specifically the music festival scene of the era, in all its vibrancy. Often held over long     weekends, these festivals ticketed by the day. AnColor: Oil Green/Multi-Color-Sail d, while there was a shared belief in the peaceful power of the gatherings, each had its own unique essence.",
+            "category" : "Men's",
+            "image" : "https://secretjunction.com/wp-content/uploads/2022/07/443152d8-300x300.jpeg",
+            "rating" : {
+                "rate" : 4.1,
+                "count" : 15
+            },
+            "altIMG1" : "https://secretjunction.com/wp-content/uploads/2022/07/44782099-100x100.jpeg",
+            "altIMG2" : "https://secretjunction.com/wp-content/uploads/2022/07/39c07dbe-100x100.jpeg",
+            "altIMG3" : "https://secretjunction.com/wp-content/uploads/2022/07/1c5ded4c-100x100.jpeg",
+            "altIMG4" : "https://secretjunction.com/wp-content/uploads/2022/07/8a4be6a5-100x100.jpeg",
+            "altIMG5" : "https://secretjunction.com/wp-content/uploads/2022/07/443152d8-100x100.jpeg",
+            "size1" : "UK-7 or Euro-41",
+            "size2" : "UK-7.5 or Euro-42",
+            "size3" : "UK-8.5 or Euro-43",
+            "size4" : "UK-9 or Euro-44",
+            "size5" : "UK-10 or Euro-45"
+        }
+    ]
+}
